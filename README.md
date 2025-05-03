@@ -1,5 +1,5 @@
+![Android](https://img.shields.io/badge/Android-V1.1.0--Beta-brightgreen)
 # Ticketly Hub - Event Tickets Plus (The Events Calendar  <img src="tec.png" alt="The Events Calendar Logo" width="50" height="50"> )
-
 
 ### Ticketly Hub – A Modern Revamp of Event Ticket Plus ⚡
 Ticketly Hub App is a reimagined and upgraded version of Event Ticket Plus by The Events Calendar. Designed with modern UI/UX principles and enhanced performance in mind, this app simplifies event ticketing for organizers and attendees alike.
