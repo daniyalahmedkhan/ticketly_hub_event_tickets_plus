@@ -24,5 +24,12 @@ Ticketly Hub is a reimagined and upgraded version of Event Ticket Plus by The Ev
 🌍 **Multi-Language Support** — English, German, Spanish, and French 
 
 
-## Android App ![Google Play Store]([https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Play_Store_icon_%282013-2016%29.png](https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/current-google-play-icon.jpg?ssl=1))
+
+
+## [Download Android App](https://play.google.com/store/apps/details?id=com.theeventscalendar.eventticketsplus.revamp.events_ticket_app)
+
+
+
+
+
 
