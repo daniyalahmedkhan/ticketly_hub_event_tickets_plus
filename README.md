@@ -2,7 +2,7 @@
 
 
 ### Ticketly Hub – A Modern Revamp of Event Ticket Plus ⚡
-Ticketly Hub is a reimagined and upgraded version of Event Ticket Plus by The Events Calendar. Designed with modern UI/UX principles and enhanced performance in mind, this app simplifies event ticketing for organizers and attendees alike.
+Ticketly Hub App is a reimagined and upgraded version of Event Ticket Plus by The Events Calendar. Designed with modern UI/UX principles and enhanced performance in mind, this app simplifies event ticketing for organizers and attendees alike.
 
 ## 🚀 Features
 🎫 **Scan Tickets** — Scan tickets at event entrances with QR code support  
