@@ -1,8 +1,8 @@
 ![Android](https://img.shields.io/badge/Android-V1.1.0--Beta-brightgreen)
-# Ticketly Hub - Event Tickets Plus (The Events Calendar <img src="tec.png" alt="The Events Calendar Logo" width="30" height="30"> )
+# Ticketly Hub - Event Tickets Plus (The Events Calendar <img src="tec.png" alt="The Events Calendar Logo" width="30" height="30"> )  
 
 ### Ticketly Hub – A Modern Revamp of Event Tickets Plus ⚡
-Ticketly Hub App is a reimagined and upgraded version of Event Ticket Plus by The Events Calendar. Designed with modern UI/UX principles and enhanced performance in mind, this app simplifies event ticketing for organizers and attendees alike.
+Ticketly Hub App is a reimagined and upgraded version of Event Ticket Plus by The Events Calendar. Designed with modern UI/UX principles and enhanced performance in mind, this app simplifies event ticketing for organizers and attendees alike.  
 
 ## 🚀 Features
 🎫 **Scan Tickets** — Scan tickets at event entrances with QR code support  
@@ -23,10 +23,6 @@ Ticketly Hub App is a reimagined and upgraded version of Event Ticket Plus by Th
 
 🌍 **Multi-Language Support** — English, German, Spanish, and French 
 
-
-
-
-
   
 ## [Download Android App](https://play.google.com/store/apps/details?id=com.theeventscalendar.eventticketsplus.revamp.events_ticket_app) 
 
@@ -39,6 +35,10 @@ Ticketly Hub App is a reimagined and upgraded version of Event Ticket Plus by Th
 <img src="https://github.com/user-attachments/assets/45e7856c-8645-4c07-952a-2e7637afad36" alt="7" width="200" />
 <img src="https://github.com/user-attachments/assets/97eaa909-5ffd-4dec-9e42-09949df0dc0d" alt="8" width="200" />
 <img src="https://github.com/user-attachments/assets/84609eed-260b-46e4-9e89-58bf00d63c58" alt="9" width="200" />
+
+### 💬 I’d Love Your Feedback!
+Have ideas or improvements for Ticketly Hub? I truly welcome your input!
+Feel free to open an issue here on GitHub or use the in-app feedback section to share your thoughts, report bugs, or suggest new features.  
 
 ### 📌 Disclaimer  
 This app (**Ticketly Hub**) is provided free of charge as a community-driven project in support of the official **Event Tickets Plus app by The Events Calendar**.
