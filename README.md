@@ -1,4 +1,4 @@
-![Android](https://img.shields.io/badge/Android-V1.1.0--Beta-brightgreen)
+![Android](https://img.shields.io/badge/Android-V1.2.0--Beta-brightgreen)
 # Ticketly Hub - Event Tickets Plus (The Events Calendar <img src="tec.png" alt="The Events Calendar Logo" width="30" height="30"> )  
 
 ### Ticketly Hub – A Modern Revamp of Event Tickets Plus ⚡
