@@ -1,5 +1,4 @@
 ![Android](https://img.shields.io/badge/Android-v1.3.0-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.appcluster.events_ticket_scanner)
 ![iOS](https://img.shields.io/badge/iOS-Coming%20Soon-black?logo=apple)
 
